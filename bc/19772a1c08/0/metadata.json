@@ -1,0 +1,37 @@
+{
+  "cli_version": "0.4.9",
+  "checkpoint_id": "bc19772a1c08",
+  "session_id": "bcf6ae37-ed92-435c-b09e-5ee86509252b",
+  "strategy": "manual-commit",
+  "created_at": "2026-04-02T20:07:49.657257Z",
+  "branch": "master",
+  "checkpoints_count": 2,
+  "files_touched": [
+    ".claude/settings.json",
+    ".claude/skills/application-guide/SKILL.md",
+    ".claude/skills/interview-prep/SKILL.md",
+    ".claude/skills/job-screening/SKILL.md",
+    ".claude/skills/job-search/SKILL.md",
+    ".claude/skills/resume-review/SKILL.md",
+    ".claude/skills/session-start/SKILL.md",
+    "README.md"
+  ],
+  "agent": "Claude Code",
+  "turn_id": "7a79ad70e513",
+  "token_usage": {
+    "input_tokens": 24,
+    "cache_creation_tokens": 31002,
+    "cache_read_tokens": 530340,
+    "output_tokens": 11797,
+    "api_call_count": 18
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-04-02T20:07:49.614231Z",
+    "agent_lines": 480,
+    "human_added": 2,
+    "human_modified": 0,
+    "human_removed": 0,
+    "total_committed": 482,
+    "agent_percentage": 99.5850622406639
+  }
+}
