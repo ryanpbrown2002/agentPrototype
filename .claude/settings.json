@@ -16,7 +16,12 @@
       "Edit(/.claude/skills/want-examination/**)",
       "Edit(/.claude/skills/reframe/**)",
       "Edit(/.claude/skills/flourishing-prompt/**)",
-      "Edit(/.claude/skills/gratitude-inventory/**)"
+      "Edit(/.claude/skills/gratitude-inventory/**)",
+      "Edit(/.claude/skills/job-search/**)",
+      "Edit(/.claude/skills/resume-review/**)",
+      "Edit(/.claude/skills/application-guide/**)",
+      "Edit(/.claude/skills/job-screening/**)",
+      "Edit(/.claude/skills/interview-prep/**)"
     ],
     "deny": [
       "Read(./.entire/metadata/**)"
