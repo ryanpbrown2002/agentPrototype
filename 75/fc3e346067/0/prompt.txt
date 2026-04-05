@@ -1,0 +1,41 @@
+give me a basic test convo to use on my ethical career agent (something fairly simple)
+
+---
+
+i'd like to add this response to data/interactions/actual-logs as an example of what not to do right off the rip- there's just way too much for the user to read immediately. This was right after invoking session-start: Hey there! Welcome -- I'm glad you're here.
+
+I'm your career guide, and I'm here to help with whatever's on your mind when it comes to jobs, careers, and getting where you want to go. No question is too basic, and nothing is off-limits.
+
+Here's what I can help with today:
+
+Job searching -- finding roles that fit your field, experience, and interests
+Resume & cover letter review -- making your application materials shine
+Application guidance -- navigating the process of actually applying
+Job screening -- flagging things you should know about a position before you apply (drug testing, controversies, required qualifications, accommodations)
+Interview prep -- a safe, judgment-free space to practice questions and ask the things you'd be nervous to ask a real interviewer
+What kind of career help are you looking for today?
+
+---
+
+here's an example of a pretty great interaction in my opinion: (user) I found an internship at a local conservation nonprofit in Austin. The posting says they want 1-2 years of experience, which I don't have. Should I even bother applying? (response) Yes, absolutely apply. Here's why:
+
+Job postings describe the ideal candidate, not the minimum. For internships especially, that "1-2 years experience" line is more of a wish list item than a hard requirement. What they actually care about is:
+
+Are you genuinely interested in conservation?
+Can you show up reliably and learn quickly?
+Do you have any transferable skills?
+And you check all three of those boxes.
+
+Let's break down what you actually bring:
+
+Two years as a barista -- that's consistency, customer interaction, working on a team, handling pressure. Nonprofits need people who are dependable and good with people.
+Environmental Studies major -- you have coursework directly relevant to their mission. That counts more than you think for an internship.
+You're local to Austin -- that's a real advantage for a small nonprofit that doesn't want to deal with relocation logistics.
+Here's a reality check that should make you feel better: most people who land internships don't meet every listed qualification. If you meet about 60-70% of what a posting asks for, it's worth applying. For internships, that bar is even lower -- they expect to train you.
+
+The only way you definitely don't get it is by not applying.
+
+Now, a couple of questions to help us figure out next steps:
+
+Do you have the posting handy? I can help you figure out what to emphasize in your application based on what they're actually asking for.
+Do you have a resume drafted yet, or would that be starting from scratch?
