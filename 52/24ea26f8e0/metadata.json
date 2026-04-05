@@ -1,0 +1,35 @@
+{
+  "cli_version": "0.4.9",
+  "checkpoint_id": "5224ea26f8e0",
+  "strategy": "manual-commit",
+  "branch": "master",
+  "checkpoints_count": 2,
+  "files_touched": [
+    ".claude/skills/application-guide/SKILL.md",
+    ".claude/skills/flourishing-prompt/SKILL.md",
+    ".claude/skills/gratitude-inventory/SKILL.md",
+    ".claude/skills/interview-prep/SKILL.md",
+    ".claude/skills/job-screening/SKILL.md",
+    ".claude/skills/job-search/SKILL.md",
+    ".claude/skills/reframe/SKILL.md",
+    ".claude/skills/resume-review/SKILL.md",
+    ".claude/skills/session-start/SKILL.md",
+    ".claude/skills/want-examination/SKILL.md"
+  ],
+  "sessions": [
+    {
+      "metadata": "/52/24ea26f8e0/0/metadata.json",
+      "transcript": "/52/24ea26f8e0/0/full.jsonl",
+      "context": "/52/24ea26f8e0/0/context.md",
+      "content_hash": "/52/24ea26f8e0/0/content_hash.txt",
+      "prompt": "/52/24ea26f8e0/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 9,
+    "cache_creation_tokens": 7274,
+    "cache_read_tokens": 81748,
+    "output_tokens": 338,
+    "api_call_count": 6
+  }
+}
