@@ -1,25 +1,31 @@
 {
   "name": "Priya Sharma",
-  "age": 34,
-  "occupation": "Freelance writer and content strategist",
+  "age": 24,
+  "occupation": "Recent M.A. graduate, part-time freelance writer",
   "location": "Chicago, IL",
-  "income_bracket": "variable ($45-70k depending on year)",
-  "consumerism_pattern": "scarcity_anxiety_buyer",
-  "backstory": "Priya's family immigrated from India when she was seven. Her parents worked multiple jobs and money was always tight. She remembers the anxiety of her mother checking prices at the grocery store and putting things back. Now that Priya earns her own money, she hoards supplies and jumps on 'deals' — not out of desire for the thing, but out of a deep fear that the opportunity will disappear. Her pantry has canned goods from two years ago. Her closet has unopened bulk purchases of toiletries. She knows it's irrational, but the fear is visceral. She journals almost daily and has a close relationship with her sister Anita, who gently teases her about the hoarding.",
-  "emotional_triggers": [
-    "'Limited time offer' and 'only 3 left in stock' messaging",
-    "Economic anxiety — recession headlines, freelance income uncertainty",
-    "Fear of scarcity rooted in childhood financial instability",
-    "Bulk discount deals ('buy 6, save 40%')",
-    "Seeing her bank balance dip below a certain threshold"
+  "education": "M.A. English Literature (2025), B.A. English and Communications",
+  "career_stage": "post_graduate_job_seeker",
+  "backstory": "Priya finished her master's degree six months ago and is struggling to turn her humanities education into a career. Her family immigrated from India when she was seven, and her parents sacrificed a lot so she could get an education — which adds pressure to find 'a real job' quickly. She's been freelance writing to pay bills, but the income is inconsistent and the work feels disconnected from what she studied. She's interested in publishing, content strategy, communications, or even EdTech, but doesn't know how to position herself for any of these. Her sister Anita, an engineer, keeps sending her job links that don't match her skills at all. Priya journals daily and is a thoughtful, careful person — but she's paralyzed by too many options and not enough clarity on what she's qualified for.",
+  "career_goals": [
+    "Find a full-time role that uses her writing, research, and communication skills",
+    "Understand which industries and roles value a humanities background",
+    "Build confidence that her education and freelance work are marketable"
+  ],
+  "challenges": [
+    "Doesn't know how to translate an M.A. in English into job qualifications",
+    "Freelance work feels informal — unsure how to present it on a resume",
+    "Overwhelmed by the range of possible career paths",
+    "Family pressure to find stable employment quickly",
+    "Many entry-level roles in her fields of interest pay poorly or require unpaid internships",
+    "Nervous about salary negotiation — doesn't want to seem ungrateful or pushy"
   ],
   "existing_strengths": [
-    "Deeply empathetic — her writing career is built on understanding people",
-    "Consistent journaling habit — she processes well in writing",
-    "Strong relationship with her sister Anita",
-    "Self-aware about the roots of her buying pattern",
-    "Community-oriented — active in her neighborhood writing group"
+    "Excellent writer and editor — published thesis and several freelance pieces",
+    "Strong research skills honed through graduate work",
+    "Consistent journaling habit — processes decisions well in writing",
+    "Empathetic communicator — good at understanding audience needs",
+    "Active in a neighborhood writing group — has a small professional network she doesn't realize is valuable"
   ],
-  "current_situation": "Priya just saw a 'warehouse closing sale — everything 60% off' email from a household supply store. She doesn't need anything, but her body is telling her she needs to act NOW before it's gone. She's sitting at her desk with the email open, heart rate elevated, knowing intellectually that she has enough toilet paper and cleaning supplies to last months. She wants to talk through the feeling before she clicks.",
-  "what_success_looks_like": "Priya recognizes the scarcity trigger, takes a breath, and can sit with the discomfort of not-buying without it ruining her afternoon. Bonus: she journals about it later."
+  "current_situation": "Priya found three postings: a Content Strategist role at an EdTech startup, a Communications Coordinator at a nonprofit, and an Editorial Assistant position at a university press. She's excited but anxious — one requires '2+ years of content strategy experience,' another mentions 'experience with CMS platforms,' and the third pays $38k which feels low for Chicago. She wants help figuring out which ones to apply to, how to present her background, and whether the low-paying role is worth it.",
+  "what_success_looks_like": "Priya has a clear understanding of which roles fit her skills, a resume that frames her academic and freelance work as professional experience, knows what red flags to watch for in job postings (especially around pay), and feels confident enough to apply without spiraling into self-doubt."
 }

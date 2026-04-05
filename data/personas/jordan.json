@@ -1,25 +1,30 @@
 {
   "name": "Jordan Taylor",
-  "age": 22,
-  "occupation": "College senior, Environmental Studies major, part-time barista",
+  "age": 21,
+  "occupation": "College junior, Environmental Studies major, part-time barista",
   "location": "Austin, TX",
-  "income_bracket": "low ($18k part-time + student loans)",
-  "consumerism_pattern": "social_media_influenced",
-  "backstory": "Jordan is thoughtful and genuinely cares about sustainability — it's their major. But there's a disconnect between their values and their behavior. They spend 3+ hours daily on TikTok and Instagram, and viral product recommendations feel like discovery, not advertising. 'TikTok made me buy it' is said without irony. They've bought a sunrise alarm clock, three skincare routines, a Stanley cup, and a set of aesthetic desk accessories in the last two months — all from creator recommendations. Their dorm room looks like a curated content set. They haven't developed a strong internal compass for what they actually want vs. what's trending. They volunteer at an animal shelter on weekends, which they love.",
-  "emotional_triggers": [
-    "Viral product videos with high production value and social proof",
-    "Peer group trends — everyone in their friend group buys the same things",
-    "'Aesthetic' culture — the pressure to have a visually cohesive life",
-    "Fear of being out of touch or behind trends",
-    "The seamless shopping experience embedded in social media (tap to buy)"
+  "education": "B.A. Environmental Studies (expected May 2027), 3.4 GPA",
+  "career_stage": "first_internship_seeker",
+  "backstory": "Jordan is passionate about sustainability and wants to work in the environmental sector, but has no idea how to break in. Their experience is limited to a part-time barista job and volunteering at an animal shelter. They've been scrolling job boards for weeks and feel overwhelmed — most postings seem to require 2+ years of experience even for 'entry-level' roles. They've never written a professional resume and have only had informal interviews. Their campus career center has long wait times, so they're looking for guidance on their own. They're motivated but don't know where to start.",
+  "career_goals": [
+    "Land a summer internship in sustainability, environmental policy, or conservation",
+    "Build a resume that translates volunteer and coursework experience into professional skills",
+    "Understand what employers actually look for vs. what job postings say they require"
+  ],
+  "challenges": [
+    "No formal professional experience — only part-time service work and volunteering",
+    "Doesn't know how to tailor a resume for different types of roles",
+    "Intimidated by job postings that list requirements they don't fully meet",
+    "Unsure how to talk about coursework and volunteer work in a professional context",
+    "Nervous about interviews — has never done a formal one"
   ],
   "existing_strengths": [
-    "Genuinely curious and open to new perspectives",
-    "Values sustainability (even if behavior doesn't always match)",
-    "Loves learning — reads widely beyond coursework",
-    "Volunteers at an animal shelter — has strong empathy for living things",
-    "Good sense of humor and self-deprecating awareness ('I know I'm a walking TikTok ad')"
+    "Genuinely curious and open to feedback",
+    "Strong writing skills from coursework",
+    "Consistent volunteer commitment at an animal shelter (2 years)",
+    "Good sense of humor and self-awareness",
+    "Willing to put in the work if someone shows them the path"
   ],
-  "current_situation": "Jordan just watched a TikTok about a $45 'life-changing' water bottle with a motivational time tracker on the side. They already have two perfectly good water bottles. Three friends have posted about the same bottle this week. They're in the library supposedly studying for finals but have the product page open on their phone. They feel silly for wanting it but also feel like they're missing out.",
-  "what_success_looks_like": "Jordan laughs at the absurdity, puts the phone down, recognizes the pattern of manufactured desire, and maybe texts a friend about it instead of buying it. Long-term: starts noticing the 'TikTok made me buy it' pattern as it happens."
+  "current_situation": "Jordan found three internship postings: one at a local conservation nonprofit, one at the city's sustainability office, and one at a solar energy startup. All three ask for a resume and cover letter. Jordan has a one-page resume that's mostly their barista job and a list of courses. They want help figuring out which roles are realistic, how to improve their resume, and how to actually apply.",
+  "what_success_looks_like": "Jordan has a polished resume that highlights transferable skills, understands how to tailor applications for each role, feels prepared enough to submit all three applications, and knows what to expect in the interview process."
 }

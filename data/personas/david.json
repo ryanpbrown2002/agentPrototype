@@ -1,25 +1,31 @@
 {
   "name": "David Morales",
-  "age": 45,
-  "occupation": "Regional Sales Manager at a pharmaceutical company",
-  "location": "Scottsdale, AZ",
-  "income_bracket": "upper-mid ($130k)",
-  "consumerism_pattern": "status_identity_buyer",
-  "backstory": "David was promoted to regional manager eighteen months ago. The role comes with a new peer group — people who drive luxury cars, wear designer watches, and vacation in places David's never been. He grew up middle-class in Tucson and still carries some of that identity, but he's spending to match what he perceives as the standard for someone in his position. His wife has started noticing the credit card bills. He coaches his daughter's soccer team on Saturdays, which is the most grounded he feels all week. He's good at setting goals when he has a clear target, but right now the target feels like 'keep up.'",
-  "emotional_triggers": [
-    "Coworker conversations about purchases, vacations, and lifestyle",
-    "LinkedIn culture — success performance, 'level up' messaging",
-    "'You deserve it' and 'invest in yourself' marketing language",
-    "Feeling like an imposter in his new role",
-    "Comparing his house/car/wardrobe to peers"
+  "age": 38,
+  "occupation": "Former restaurant manager, currently unemployed",
+  "location": "Tucson, AZ",
+  "education": "Associate's degree in Business Administration, ServSafe certified",
+  "career_stage": "post_layoff_reentry",
+  "backstory": "David managed a family-owned restaurant for twelve years. When the owners retired and sold the business three months ago, he was out of a job for the first time in his adult life. He's a hard worker with real leadership experience — he managed a team of 15, handled budgets, dealt with vendors, and kept the place running through COVID. But his resume is basically one long job at one place, and he's never had to job search before. He feels out of his depth with online applications, ATS systems, and the modern hiring process. He's been applying through Indeed with a bare-bones resume and getting no callbacks. He coaches his daughter's soccer team on Saturdays, which keeps him grounded, but the financial pressure is building.",
+  "career_goals": [
+    "Find stable employment that uses his management and operations experience",
+    "Explore options beyond food service — open to operations, logistics, or retail management",
+    "Understand the modern job application process and why he's not getting callbacks"
+  ],
+  "challenges": [
+    "Resume doesn't translate restaurant management into broader business language",
+    "Has never used an ATS-optimized resume or written a cover letter",
+    "Only has one employer on his resume spanning 12 years",
+    "Unfamiliar with LinkedIn, online networking, and digital job search strategies",
+    "Growing financial pressure — needs income within the next two months",
+    "Feels embarrassed about his age and industry background compared to younger applicants"
   ],
   "existing_strengths": [
-    "Strong community ties through soccer coaching",
-    "Genuinely good at goal-setting and follow-through in professional contexts",
-    "Loving relationship with his daughter",
-    "Grew up resourceful — knows how to be happy with less, but has lost touch with it",
-    "Respected by his team at work for being authentic"
+    "12 years of genuine management experience — budgets, hiring, team leadership, operations",
+    "Navigated the restaurant through COVID with creative problem-solving",
+    "Strong community ties and respected in his local area",
+    "Devoted father — coaching keeps him disciplined and positive",
+    "Goal-oriented and willing to learn new things if given clear direction"
   ],
-  "current_situation": "David is looking at a $4,200 watch online. His current watch works fine — he bought it five years ago and likes it. But three colleagues at a dinner last week all had luxury watches and he felt out of place. He's rationalizing it as a 'reward for the promotion' even though the promotion was 18 months ago. He's not sure why he's hesitating.",
-  "what_success_looks_like": "David recognizes the social proof pattern, reconnects with what actually makes him feel confident (coaching, his team's respect), and decides on his own terms — not based on what three guys at dinner were wearing."
+  "current_situation": "David has applied to 20+ jobs on Indeed in the last month with zero callbacks. He's looking at an Operations Manager role at a logistics company, a Retail Store Manager position, and a Facilities Coordinator job at the local university. He doesn't know which ones are realistic, suspects his resume is the problem, and wants to understand what he's doing wrong.",
+  "what_success_looks_like": "David has a rewritten resume that frames his restaurant experience as transferable management and operations skills, understands how ATS systems work, knows which roles are strong fits, and has a clear application strategy — including how to follow up."
 }

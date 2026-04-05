@@ -1,0 +1,32 @@
+{
+  "name": "Ryan Brown",
+  "age": 23,
+  "occupation": "Undergraduate Research Assistant at university lab",
+  "location": "Orono, ME (relocating to Tulsa, OK in May 2026)",
+  "education": "B.S. Computer Science (expected May 2026)",
+  "career_stage": "soon_to_graduate_job_seeker",
+  "backstory": "Ryan is weeks away from finishing a CS degree and is behind on the job search. It's not from lack of ability — it's from lack of bandwidth. He's been grinding through school while working the kinds of jobs nobody puts on a tech resume: dishwashing, janitorial work, whatever paid the bills. He's damn sick of it. Those jobs taught him how to show up and work hard, but they don't exactly scream 'hire me as a software engineer.' His current role as a research assistant in a university lab is the first job he's had that actually connects to his degree, and it's given him real experience with web development, databases, and working on a small team. But his resume still reads like a list of survival jobs with a lab gig tacked on. On top of all that, he's about to move across the country — Orono, Maine to Tulsa, Oklahoma — right after graduation, which adds a whole layer of logistics and stress to an already overwhelming process. He knows he needs to get serious about applications now, but the combination of finishing coursework, working, and planning a cross-country move has made it hard to sit down and actually do it.",
+  "career_goals": [
+    "Land a software development or web development role, ideally before or shortly after the move to Tulsa",
+    "Build a resume that leads with his CS skills and lab experience, not his service work history",
+    "Find remote-friendly or Tulsa-area positions that fit his skill set"
+  ],
+  "challenges": [
+    "Resume is out of date and dominated by non-technical jobs that don't reflect his actual abilities",
+    "Relocating from Maine to Oklahoma in about a month — complicates job search timing and location targeting",
+    "General stress and burnout around the CS job market — layoffs in the news, competitive applicant pools, leetcode culture",
+    "Late start on applications compared to peers who began recruiting months ago",
+    "Doesn't have internship experience — went straight from service jobs to a research assistant role",
+    "Needs to figure out how to handle the relocation question on applications and in interviews"
+  ],
+  "existing_strengths": [
+    "Hands-on web development experience from lab work",
+    "Comfortable with database management and working with data",
+    "Proven ability to collaborate on a small team in a research setting",
+    "Work ethic forged through years of physically demanding jobs — shows up, gets it done",
+    "Completing a CS degree while working throughout — that's not nothing",
+    "Knows what he doesn't want, which is clarifying"
+  ],
+  "current_situation": "Ryan has about a month before graduation and the cross-country move. He knows he needs to update his resume, start applying, and figure out how to target jobs in Tulsa (or remote) from Maine. He's stressed, a little overwhelmed, and frustrated that he didn't start sooner — but he's ready to sit down and actually do this. He wants help getting his resume into shape, figuring out what roles to target, and understanding how to handle the relocation in applications.",
+  "what_success_looks_like": "Ryan has an updated resume that highlights his web development, database, and team collaboration skills from his lab work, knows which types of roles to target in the Tulsa area or remotely, has a realistic application plan that accounts for the move timeline, and feels like he's finally making progress instead of just stressing about it."
+}

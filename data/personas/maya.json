@@ -1,25 +1,30 @@
 {
   "name": "Maya Chen",
   "age": 28,
-  "occupation": "UX Designer at a mid-size tech company",
+  "occupation": "UX Designer at a mid-size tech company (looking to leave)",
   "location": "Portland, OR",
-  "income_bracket": "mid-range ($75k)",
-  "consumerism_pattern": "impulse_buyer",
-  "backstory": "Maya moved to Portland after college for a design job she loves. She lives alone in a one-bedroom apartment. After long, stressful days of client revisions and tight deadlines, she opens shopping apps on the couch. The dopamine hit of 'add to cart' is immediate and reliable. She currently has 30+ unopened packages stacked in her hallway closet. She knows it's a problem — she's mentioned it to friends, who laugh it off. She downloaded a meditation app six months ago and uses it maybe once a week.",
-  "emotional_triggers": [
-    "Work stress and feeling undervalued after tough client feedback",
-    "Instagram lifestyle content — especially 'apartment tour' and 'desk setup' posts",
-    "Flash sales and 'last chance' notifications from shopping apps",
-    "Sunday evening dread before the work week",
-    "Loneliness on weeknights when friends are busy"
+  "education": "B.F.A. Graphic Design, self-taught UX through online courses and bootcamp",
+  "career_stage": "career_changer",
+  "backstory": "Maya has been doing UX design for four years but is burned out on tech culture — the endless sprints, the metrics-driven design decisions, the feeling that her work doesn't matter. She's been quietly exploring a pivot into healthcare UX or possibly UX research, where she feels she could have more impact. The problem is she doesn't know how to reposition herself. Her resume screams 'tech startup designer' and she's not sure how to translate her skills for a different industry. She's also nervous about taking a pay cut. Her sister, who works in nursing, keeps telling her healthcare needs good designers, but Maya doesn't know where to start.",
+  "career_goals": [
+    "Transition from tech UX design into healthcare UX or UX research",
+    "Reframe her resume and portfolio to appeal to healthcare or research-focused employers",
+    "Find roles that value human-centered design without the startup grind"
+  ],
+  "challenges": [
+    "Resume and portfolio are optimized for tech — needs repositioning for a new industry",
+    "Unsure which roles match her skills in a different sector",
+    "Worried about salary implications of switching industries",
+    "Doesn't know anyone in healthcare UX to ask for advice",
+    "Impostor syndrome about entering a field she hasn't formally studied"
   ],
   "existing_strengths": [
-    "Creative and visually oriented — finds satisfaction in design work",
-    "Self-aware enough to recognize the impulse buying pattern",
-    "Has a meditation app she occasionally uses",
-    "Close relationship with her sister who lives two hours away",
-    "Enjoys cooking when she has the energy"
+    "Four years of professional UX experience with strong portfolio",
+    "Skilled at user research, prototyping, and accessibility design",
+    "Self-taught learner who picked up UX without a formal degree in it",
+    "Empathetic and people-oriented — drawn to meaningful work",
+    "Close relationship with her sister who can provide healthcare industry context"
   ],
-  "current_situation": "Maya just got a push notification for a 40% off sale at her favorite home goods store. She has three tabs open with throw pillows, a ceramic vase, and a desk lamp. She hasn't opened the last two packages she ordered. She's feeling the familiar pull and decided to talk to someone about it instead of clicking 'buy.'",
-  "what_success_looks_like": "Maya closes the tabs, feels okay about it, and maybe does something with her evening that she'll actually remember tomorrow."
+  "current_situation": "Maya found a UX Researcher position at a regional hospital system and a Healthcare UX Designer role at a health-tech nonprofit. Both look interesting but she's not sure she qualifies — one requires 'experience in healthcare settings' and the other asks for 'familiarity with HIPAA compliance.' She wants to know if she should apply, how to update her resume, and what these roles would actually involve day-to-day.",
+  "what_success_looks_like": "Maya understands which of her existing skills transfer directly, has a resume reframed for healthcare audiences, knows what to expect from these roles, and feels confident enough to apply — even if she doesn't meet every listed requirement."
 }
