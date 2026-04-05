@@ -1,0 +1,95 @@
+give me a basic test convo to use on my ethical career agent (something fairly simple)
+
+---
+
+i'd like to add this response to data/interactions/actual-logs as an example of what not to do right off the rip- there's just way too much for the user to read immediately. This was right after invoking session-start: Hey there! Welcome -- I'm glad you're here.
+
+I'm your career guide, and I'm here to help with whatever's on your mind when it comes to jobs, careers, and getting where you want to go. No question is too basic, and nothing is off-limits.
+
+Here's what I can help with today:
+
+Job searching -- finding roles that fit your field, experience, and interests
+Resume & cover letter review -- making your application materials shine
+Application guidance -- navigating the process of actually applying
+Job screening -- flagging things you should know about a position before you apply (drug testing, controversies, required qualifications, accommodations)
+Interview prep -- a safe, judgment-free space to practice questions and ask the things you'd be nervous to ask a real interviewer
+What kind of career help are you looking for today?
+
+---
+
+here's an example of a pretty great interaction in my opinion: (user) I found an internship at a local conservation nonprofit in Austin. The posting says they want 1-2 years of experience, which I don't have. Should I even bother applying? (response) Yes, absolutely apply. Here's why:
+
+Job postings describe the ideal candidate, not the minimum. For internships especially, that "1-2 years experience" line is more of a wish list item than a hard requirement. What they actually care about is:
+
+Are you genuinely interested in conservation?
+Can you show up reliably and learn quickly?
+Do you have any transferable skills?
+And you check all three of those boxes.
+
+Let's break down what you actually bring:
+
+Two years as a barista -- that's consistency, customer interaction, working on a team, handling pressure. Nonprofits need people who are dependable and good with people.
+Environmental Studies major -- you have coursework directly relevant to their mission. That counts more than you think for an internship.
+You're local to Austin -- that's a real advantage for a small nonprofit that doesn't want to deal with relocation logistics.
+Here's a reality check that should make you feel better: most people who land internships don't meet every listed qualification. If you meet about 60-70% of what a posting asks for, it's worth applying. For internships, that bar is even lower -- they expect to train you.
+
+The only way you definitely don't get it is by not applying.
+
+Now, a couple of questions to help us figure out next steps:
+
+Do you have the posting handy? I can help you figure out what to emphasize in your application based on what they're actually asking for.
+Do you have a resume drafted yet, or would that be starting from scratch?
+
+---
+
+give me some test interactions for david here
+
+---
+
+Good 'problem solving' interaction (user) I managed a restaurant for 12 years and now it's gone. I've been applying everywhere on Indeed and nobody's calling me back. I don't know what I'm doing wrong. (response) First -- twelve years managing a restaurant is serious experience. Leadership, hiring, budgets, operations, handling crises on the fly. That's not nothing. That's a lot of transferable skill, even if it doesn't feel that way right now.
+
+Second -- the "applying everywhere and hearing nothing" pattern is one of the most common and most fixable problems. It almost never means something is wrong with you. It usually means something is off with the approach. Let me help figure out where the disconnect is.
+
+A few quick questions so I can point you in the right direction:
+
+What kinds of roles are you applying for? Other restaurant/hospitality management? Or are you trying to pivot into something different?
+How's your resume looking? Is it updated, or are you working with something older? Does it lead with your management experience, or is it more of a general work history?
+When you say "applying everywhere on Indeed" -- are you customizing anything per application, or mostly hitting the quick-apply button?
+No judgment on any of these -- I just want to figure out whether this is a resume problem, a targeting problem, an application strategy problem, or some mix. Once I know, I can give you something actually useful instead of generic advice.
+
+What's your situation on those three?
+
+---
+
+lets get an example interaction for priya
+
+---
+
+Positive interaction: (user) if I enter a low salary job, does that set me up for failure overtime? make it harder to get a higher salary job after the fact? (response) This is a smart question, and I'll be honest -- the answer is yes, it can, but it doesn't have to. Here's how it actually works.
+
+The problem is real. It's called salary anchoring.
+
+When you move to your next job, many employers will ask what you're currently making (though this is becoming illegal in more places -- Illinois actually banned this question in 2019). Even when they don't ask directly, a low starting salary can quietly shape your own expectations for what you "should" ask for. You end up negotiating against yourself.
+
+A person who starts at $38k and gets 3-4% annual raises is at ~$40k after two years. A person who started at $45k is at ~$47k. That gap compounds over a career.
+
+But here's what breaks the cycle:
+
+You don't have to stay long. 1-2 years in an editorial assistant role gives you the experience line on your resume. Then you leave for something that pays what you're worth. This is normal. Nobody will judge you for it. Early career is when you're supposed to make strategic moves.
+
+Skills matter more than salary history. If you spend a year at the university press and walk away with editorial project management, CMS experience, and published work you can point to -- your next employer is evaluating that, not your old paycheck.
+
+You can reframe the jump. Moving from "Editorial Assistant" to "Content Strategist" or "Communications Manager" isn't a lateral move with a salary bump. It's a role change, which gives you a clean slate to negotiate based on the new role's market rate.
+
+Illinois is on your side legally. Employers in Chicago cannot ask your salary history. So when you move on, you negotiate based on the role's value, not what you used to make.
+
+The real risk isn't taking a low-paying job. It's staying in one too long without a plan.
+
+So if you go for the $38k role, go in with eyes open:
+
+Set a private timeline. "I'll give this 12-18 months to build my skills and portfolio."
+Track what you accomplish. Every project, every new skill, every thing you can quantify later.
+Keep building. The freelancing doesn't have to stop entirely. Side work keeps your network warm and your options open.
+Bottom line: Taking this job wouldn't be a failure. It would be a starting point -- as long as you treat it like one. The danger is only if $38k starts to feel like what you deserve. You deserve more. The job market just needs you to prove it on paper first, and a role like this can help you do that.
+
+Want to talk about how to plan that 12-18 month runway, or would you rather focus on getting the applications ready for all three roles?

@@ -1,0 +1,30 @@
+{
+  "cli_version": "0.4.9",
+  "checkpoint_id": "2227294f394b",
+  "session_id": "550e8140-e2a3-4ea4-badc-f90e803a68eb",
+  "strategy": "manual-commit",
+  "created_at": "2026-04-05T17:42:25.788809Z",
+  "branch": "master",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "data/interactions/actual-logs/helpful-03-salary-anchoring-honesty.md"
+  ],
+  "agent": "Claude Code",
+  "turn_id": "967a696cf170",
+  "token_usage": {
+    "input_tokens": 33,
+    "cache_creation_tokens": 17804,
+    "cache_read_tokens": 405464,
+    "output_tokens": 6151,
+    "api_call_count": 19
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-04-05T17:42:25.762066Z",
+    "agent_lines": 52,
+    "human_added": 0,
+    "human_modified": 0,
+    "human_removed": 0,
+    "total_committed": 52,
+    "agent_percentage": 100
+  }
+}
