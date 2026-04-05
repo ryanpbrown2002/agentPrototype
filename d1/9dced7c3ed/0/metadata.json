@@ -1,0 +1,39 @@
+{
+  "cli_version": "0.4.9",
+  "checkpoint_id": "d19dced7c3ed",
+  "session_id": "caafd6f4-4c76-4543-becc-b5d5f880d6d1",
+  "strategy": "manual-commit",
+  "created_at": "2026-04-05T16:20:09.938059Z",
+  "branch": "master",
+  "checkpoints_count": 1,
+  "files_touched": [
+    ".claude/skills/application-guide.md",
+    ".claude/skills/flourishing-prompt.md",
+    ".claude/skills/gratitude-inventory.md",
+    ".claude/skills/interview-prep.md",
+    ".claude/skills/job-screening.md",
+    ".claude/skills/job-search.md",
+    ".claude/skills/reframe.md",
+    ".claude/skills/resume-review.md",
+    ".claude/skills/session-start.md",
+    ".claude/skills/want-examination.md"
+  ],
+  "agent": "Claude Code",
+  "turn_id": "1924ebb9d9d8",
+  "token_usage": {
+    "input_tokens": 5,
+    "cache_creation_tokens": 6445,
+    "cache_read_tokens": 45682,
+    "output_tokens": 159,
+    "api_call_count": 4
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-04-05T16:20:09.924428Z",
+    "agent_lines": 709,
+    "human_added": 0,
+    "human_modified": 0,
+    "human_removed": 0,
+    "total_committed": 709,
+    "agent_percentage": 100
+  }
+}
