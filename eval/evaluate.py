@@ -7,12 +7,13 @@ Loads conversations, runs structural metrics, and collects rubric scores
 
 import json
 from pathlib import Path
+from typing import Dict, List, Optional
 
 from metrics import compute_all_structural
 from rubrics import RUBRICS, PRECOMPUTED_SCORES
 
 
-def load_conversations(json_path: str | None = None) -> dict:
+def load_conversations(json_path: Optional[str] = None) -> dict:
     """Load conversations from JSON file."""
     if json_path is None:
         json_path = Path(__file__).parent / "sample_conversations.json"
@@ -20,17 +21,17 @@ def load_conversations(json_path: str | None = None) -> dict:
         return json.load(f)
 
 
-def run_structural(conversation: dict) -> list[dict]:
+def run_structural(conversation: dict) -> List[dict]:
     """Run all structural metrics on a conversation."""
     return compute_all_structural(conversation)
 
 
-def get_precomputed_scores(conversation_id: str) -> dict | None:
+def get_precomputed_scores(conversation_id: str) -> Optional[dict]:
     """Look up precomputed rubric scores for a conversation."""
     return PRECOMPUTED_SCORES.get(conversation_id)
 
 
-def get_rubric_definitions() -> list[dict]:
+def get_rubric_definitions() -> List[dict]:
     """Return rubric names and descriptions for display."""
     return [{"name": r["name"], "description": r["description"]} for r in RUBRICS]
 

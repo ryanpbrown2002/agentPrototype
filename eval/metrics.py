@@ -7,15 +7,15 @@ that correlate with good or bad agent behavior.
 """
  
 import re
-from typing import Any
+from typing import Any, Dict, List
  
  
-def get_agent_turns(conversation: dict) -> list[dict]:
+def get_agent_turns(conversation: dict) -> List[dict]:
     """Extract agent turns from a conversation."""
     return [t for t in conversation["turns"] if t["role"] == "agent"]
  
  
-def get_user_turns(conversation: dict) -> list[dict]:
+def get_user_turns(conversation: dict) -> List[dict]:
     """Extract user turns from a conversation."""
     return [t for t in conversation["turns"] if t["role"] == "user"]
  
@@ -31,7 +31,7 @@ def sentence_count(text: str) -> int:
     return len([s for s in sentences if s.strip()])
  
  
-def question_ratio(conversation: dict) -> dict[str, Any]:
+def question_ratio(conversation: dict) -> Dict[str, Any]:
     """
     Fraction of agent turns that contain at least one question mark.
  
@@ -54,7 +54,7 @@ def question_ratio(conversation: dict) -> dict[str, Any]:
     return {"metric": "question_ratio", "value": round(ratio, 2), "flag": flag}
  
  
-def questions_per_turn(conversation: dict) -> dict[str, Any]:
+def questions_per_turn(conversation: dict) -> Dict[str, Any]:
     """
     Average number of question marks per agent turn.
  
@@ -76,7 +76,7 @@ def questions_per_turn(conversation: dict) -> dict[str, Any]:
     return {"metric": "questions_per_turn", "value": round(avg, 2), "flag": flag}
  
  
-def response_length_stats(conversation: dict) -> dict[str, Any]:
+def response_length_stats(conversation: dict) -> Dict[str, Any]:
     """
     Word count statistics for agent responses.
  
@@ -109,7 +109,7 @@ def response_length_stats(conversation: dict) -> dict[str, Any]:
     }
  
  
-def agent_to_user_word_ratio(conversation: dict) -> dict[str, Any]:
+def agent_to_user_word_ratio(conversation: dict) -> Dict[str, Any]:
     """
     Ratio of total agent words to total user words.
  
@@ -133,7 +133,7 @@ def agent_to_user_word_ratio(conversation: dict) -> dict[str, Any]:
     return {"metric": "word_ratio", "value": round(ratio, 2), "flag": flag}
  
  
-def first_turn_is_question(conversation: dict) -> dict[str, Any]:
+def first_turn_is_question(conversation: dict) -> Dict[str, Any]:
     """
     Does the agent's first response contain a question?
  
@@ -152,7 +152,7 @@ def first_turn_is_question(conversation: dict) -> dict[str, Any]:
     return {"metric": "first_turn_question", "value": has_question, "flag": flag}
  
  
-def acknowledgment_check(conversation: dict) -> dict[str, Any]:
+def acknowledgment_check(conversation: dict) -> Dict[str, Any]:
     """
     Checks whether agent responses acknowledge the user's feelings
     before offering advice or exercises.
@@ -204,7 +204,7 @@ def acknowledgment_check(conversation: dict) -> dict[str, Any]:
     return {"metric": "acknowledgment", "value": round(ratio, 2), "flag": flag}
  
  
-def harmful_pattern_check(conversation: dict) -> dict[str, Any]:
+def harmful_pattern_check(conversation: dict) -> Dict[str, Any]:
     """
     Checks for specific harmful patterns documented in the unhelpful examples:
     - Lecturing with statistics
@@ -260,7 +260,7 @@ def harmful_pattern_check(conversation: dict) -> dict[str, Any]:
     }
  
  
-def compute_all_structural(conversation: dict) -> list[dict[str, Any]]:
+def compute_all_structural(conversation: dict) -> List[Dict[str, Any]]:
     """Run all structural metrics on a conversation and return results."""
     return [
         question_ratio(conversation),
