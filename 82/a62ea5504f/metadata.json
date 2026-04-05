@@ -1,0 +1,30 @@
+{
+  "cli_version": "0.4.9",
+  "checkpoint_id": "82a62ea5504f",
+  "strategy": "manual-commit",
+  "branch": "master",
+  "checkpoints_count": 2,
+  "files_touched": [
+    "data/personas/david.json",
+    "data/personas/jordan.json",
+    "data/personas/maya.json",
+    "data/personas/priya.json",
+    "data/personas/ryan.json"
+  ],
+  "sessions": [
+    {
+      "metadata": "/82/a62ea5504f/0/metadata.json",
+      "transcript": "/82/a62ea5504f/0/full.jsonl",
+      "context": "/82/a62ea5504f/0/context.md",
+      "content_hash": "/82/a62ea5504f/0/content_hash.txt",
+      "prompt": "/82/a62ea5504f/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 15,
+    "cache_creation_tokens": 16535,
+    "cache_read_tokens": 229085,
+    "output_tokens": 5621,
+    "api_call_count": 11
+  }
+}
