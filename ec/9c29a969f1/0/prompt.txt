@@ -1,0 +1,9 @@
+I need some instructions in the README for running the claude skills: Include in the project README.md in your github repository, instructions for how to run your agent prototype, so your peer feedback partner can actually use it. This might just be the prompt from the 4-2 assignment (i.e. something like ~”Using the project skills, respond to this request <write your request here”)
+
+---
+
+lets improve upon what you have, by suggesting users to invoke the start of a session with /session-start also suggest users to install the claude code plugin if in vscode/cursor
+
+---
+
+we should remove the sample conversations irrelavant to this agent (as they arent sample convos for this agent)
